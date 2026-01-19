@@ -69,37 +69,4 @@ FullBath
 YearBuilt
 
 ## Repository Structure
-.
-├── assets/
-│   ├── clinical_RAG.png
-│   ├── fiya_image.png
-│   ├── Grey-Wolf-Optimizer.jpg
-│   ├── logo_fiya.png
-│   ├── plantpal_image.jpg
-│   └── realtimediagram.png
-│
-├── data/
-│   ├── house_prices_train_clean.csv
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
-│
-├── models/
-│   └── house_price_gwo_log_fe_model.pkl
-│
-├── notebook/
-│   └── Sri_Lutfya_Dwiyeni.ipynb
-│
-├── pages/
-│   ├── 01_About_Me.py
-│   ├── 02_Projects.py
-│   ├── 03_Prediction.py
-│   └── 04_Visualization.py
-│
-├── utils/
-│   └── model_utils.py
-│
-├── app.py
-├── rebuild_model.py
-├── requirements.txt
-└── README.md
+<img width="472" height="820" alt="image" src="https://github.com/user-attachments/assets/5e1a583b-64af-4691-8b26-9b9228d714ed" />
