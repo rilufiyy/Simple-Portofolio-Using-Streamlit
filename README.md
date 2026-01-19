@@ -70,27 +70,38 @@ YearBuilt
 
 ## Repository Structure
 .
-├── assets/                 # Images & visual assets
-├── data/                   # Dataset files
+├── assets/                     # Images & visual assets
+│   ├── clinical_RAG.png
+│   ├── fiya_image.png
+│   ├── Grey-Wolf-Optimizer.jpg
+│   ├── logo_fiya.png
+│   ├── plantpal_image.jpg
+│   └── realtimediagram.png
+│
+├── data/                       # Dataset files
 │   ├── house_prices_train_clean.csv
 │   ├── train.csv
 │   ├── test.csv
 │   └── sample_submission.csv
 │
-├── models/
+├── models/                     # Saved trained models
 │   └── house_price_gwo_log_fe_model.pkl
 │
-├── notebook/               # Experimental notebooks
-├── pages/                  # Streamlit multi-page app
+├── notebook/                   # Experimental & research notebooks
+│   └── Sri_Lutfya_Dwiyeni_*.ipynb
+│
+├── pages/                      # Streamlit multi-page app
 │   ├── 01_About_Me.py
 │   ├── 02_Projects.py
 │   ├── 03_Prediction.py
 │   └── 04_Visualization.py
 │
 ├── utils/
-│   └── model_utils.py
+│   └── model_utils.py          # Model loading & prediction utilities
 │
-├── app.py                  # Streamlit entry point
-├── rebuild_model.py        # Model rebuild script
+├── app.py                      # Streamlit entry point
+├── rebuild_model.py            # Model rebuild & training script
 ├── requirements.txt
+└── README.md
+
 └── README.md
