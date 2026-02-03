@@ -15,14 +15,12 @@ Model rebuilding and persistence
 
 
 ## Projects Showcase
-![Uploading image.png…]()
+<img width="1337" height="442" alt="image" src="https://github.com/user-attachments/assets/7136271f-2193-4917-99c8-8ef2cc4a47c0" />
 
 
 ## House Price Prediction
-The Prediction page allows users to:
-- Upload a CSV file
-- Predict house prices using a trained ML model
-- View predicted values directly in the app
+<img width="1577" height="947" alt="image" src="https://github.com/user-attachments/assets/8930b082-80ca-49f0-9c53-c5b3cf1eefe3" />
+
 ### Model Details
 - Algorithm: Gradient Boosting Regressor
 - Target transformation: log1p(SalePrice)
@@ -36,14 +34,15 @@ models/house_price_gwo_log_fe_model.pkl
 ## Data Visualization & Model Performance
 The Visualization page provides interactive analysis and evaluation.
 ### Features: 
-- Dataset preview & shape
-- Missing value inspection
-- Correlation heatmap (top correlated features)
-- Feature distribution plots
-- Model perf ormance comparison
+<img width="1526" height="760" alt="image" src="https://github.com/user-attachments/assets/4b2d9583-0ce1-400f-9c43-fdc167bb8cb5" />
+<img width="1412" height="919" alt="image" src="https://github.com/user-attachments/assets/fa1ecbb8-104e-47d4-a87d-d8f8c89b1b01" />
+<img width="1427" height="699" alt="image" src="https://github.com/user-attachments/assets/68476ebf-43ca-4a9c-b9cd-b735a04f5805" />
+
+
 ### Models Compared:
-- Optimized Model (Saved Model)
-- Baseline Linear Regression
+<img width="1379" height="929" alt="image" src="https://github.com/user-attachments/assets/988decd9-8e7b-4ef0-a3d5-646fd536cbab" />
+<img width="1367" height="606" alt="image" src="https://github.com/user-attachments/assets/42b757ac-c886-4917-aab2-f73707978e28" />
+
 ### Metrics Used:
 - RMSE
 - MAE
