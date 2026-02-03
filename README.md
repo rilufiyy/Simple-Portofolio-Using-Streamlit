@@ -7,23 +7,16 @@ Model rebuilding and persistence
 - Model performance comparison
 - Clean, multi-page Streamlit application
 
+<img width="1565" height="583" alt="image" src="https://github.com/user-attachments/assets/b32d6e6a-ef7a-4f31-ad03-316116b49088" />
+
 ## Profile (About Me)
 
-The Profile page introduces the author and serves as a personal portfolio section.
-It highlights:
-- Background in Machine Learning & Data Science
-- Previous AI/ML projects
-- GitHub profile and technical interests
-Implemented in: pages/01_About_Me.py
+<img width="1485" height="657" alt="image" src="https://github.com/user-attachments/assets/bb0f9976-f03d-47c1-9da7-b7509a35510c" />
+
 
 ## Projects Showcase
-The Projects page displays selected ML & AI projects with descriptions, tech stacks, and GitHub links.
-Highlighted projects include:
-- CNN-based Plant Disease Detection
-- Clinical Research RAG Mini Chatbot
-- Optimization using Grey Wolf Optimizer (GWO)
-- Video Captioning with BLIP-2
-Implemented in: pages/02_Projects.py
+![Uploading image.png…]()
+
 
 ## House Price Prediction
 The Prediction page allows users to:
