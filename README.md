@@ -15,7 +15,7 @@ Model rebuilding and persistence
 
 
 ## Projects Showcase
-<img width="1337" height="442" alt="image" src="https://github.com/user-attachments/assets/7136271f-2193-4917-99c8-8ef2cc4a47c0" />
+<img width="1106" height="802" alt="Screenshot 2026-02-03 225416" src="https://github.com/user-attachments/assets/202691b2-e91f-455c-80d4-35b9dc7402d1" />
 
 
 ## House Price Prediction
